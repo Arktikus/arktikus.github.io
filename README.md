@@ -1,1 +1,1 @@
-# arktikus-plugin
+# arktikusplugin
